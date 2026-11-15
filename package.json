@@ -1,0 +1,15 @@
+{
+  "name": "dreamdex-perps-feedback",
+  "private": true,
+  "type": "module",
+  "description": "Reproducible feedback for the dreamDEX Perps Builder Bounty (Somnia Tokyo / Hideki testnet).",
+  "scripts": {
+    "repro:01": "node repro/01-margin-roundtrip.mjs",
+    "repro:02": "node repro/02-position-fields.mjs",
+    "repro:03": "node repro/03-quote-perp-close.mjs"
+  },
+  "dependencies": {
+    "@somnia-chain/markets-sdk": "0.33.0",
+    "viem": "^2"
+  }
+}
