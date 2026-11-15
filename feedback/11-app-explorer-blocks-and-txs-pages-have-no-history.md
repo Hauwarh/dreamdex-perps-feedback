@@ -26,7 +26,6 @@ The dedicated **Blocks** and **Transactions** pages ("The selected chain's newes
 So the two pages named "Blocks" and "Transactions" cannot answer "what happened in the last minute" for anyone who just opened them. A user who wants a block from 30 seconds ago has to know its number and search for it.
 
 ## Evidence
-Frames from a screen recording, Android phone, 2026-11-15 between 11:44 and 11:47 UTC:
 - `evidence/explorer-feeds/txs-waiting-first-block.jpg`: /txs "Connecting to Global…", "Waiting for the first block…"
 - `evidence/explorer-feeds/txs-no-transactions.jpg`: /txs "No transactions in the blocks seen so far…"
 - `evidence/explorer-feeds/blocks-waiting-first-block.jpg` and `blocks-four-rows-one-second-later.jpg`: /blocks filling from zero
